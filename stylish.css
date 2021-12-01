@@ -1,11 +1,11 @@
 :root{
-    --primary-color :  #26f9e7;
-    --gray: #F3F4F6;
-    --dark-gray:#6B7280;
+    --primary-color :  #463945;
+    --gray: grey;
+    --dark-gray:darkgrey;
 }
 
 #lib{
-    color: rgb(175, 134, 127);
+    color: rgba(57, 50, 63, 0);
 }
 
 body {
@@ -48,7 +48,7 @@ hr {
     max-width: 140px;
     padding: 0.6rem 1.2rem;
     background-color: var(--primary-color);
-    color: rgba(212, 122, 122, 0.377);
+    color: rgba(236, 232, 232, 0.377);
     margin: 1rem auto;
     border-radius: 2rem;
   }
@@ -81,7 +81,7 @@ text-align: right;
 /***navigation***/
 .navigation{
     background-color: #463945;
-    color: aliceblue;
+    color: #463945;
     padding: 1rem ;
     border-bottom-left-radius: 1rem;
 }
